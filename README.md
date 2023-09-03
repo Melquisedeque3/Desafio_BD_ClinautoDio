@@ -1,7 +1,7 @@
 # Desafio_BD_ClinautoDio
 Entrega do desafio do curso Potência Tech powered by iFood | Ciência de Dados - Modelagem de dados
 
-======================================== Entendendo o cenário ===========================================
+======================================= Entendendo o cenário ======================================
 
 -- A ideia é criar uma oficina de serviços automotivos que tenha a melhor interação com os clientes fazendo a manutenão em carros de forma agil, eficiente proporcionando ao 
 cliente a melhor experiência possível. Esses objetivos são mensuradoe e atingidos atravéz do uso de tecnologias que proporcionam a melhor tomada de decisão com base nos dados.

@@ -31,7 +31,7 @@ cliente a melhor experiência possível. Esses objetivos são mensuradoe e ating
 
 -- Todos os dados são coletados através do cadastro do cliente presencialmente na oficina, no site/App da oficina.
 
-=================================== Criando o Banco de dados =================================
+============================== Criando o Banco de dados =============================
 
 -- Observando o cenário acima citado, criei um esborço com as seguintes tabelas:
 

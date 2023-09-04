@@ -102,10 +102,12 @@ Valor FLOAT
 F.Pagamento ENUM ()Dinheiro/Cartão)/PIX 
 
 ================================= Testando Banco ===============================
+
 -- Criei algumas consultas básicas para observar como o banco se comportava, após 
 algumas alterações para corrigir as chaves estrangeiras, as consultas funcionaram 
 melhor do que esperado.
 ================================= Consultas ===================================
+
 -- Carro-> Cliente
 SELECT Cliente.Nome AS NomeCliente, Carro.Modelo AS ModeloCarro
 FROM OS
@@ -145,9 +147,12 @@ Dj Kevinho - 12345678905 - Fusca - Pretinho - Substituição de peça - 325
 Marina Silva - 12345678901 - Corolla - Branco - Substituição de peça - 3.05 
 
 ================================ Considerações ====================================
+
 -- Acredito ter cumprido todos os requisitos do  desafio, os conhecimenos adiquiridos 
 valeram cada tentativa frustrada, erro de nas intruções SQL, programas que não funcionaram,
 enfim, todo trabalho foi ecompensado com o resultado encontrado. Fico a disposição para dúvidas, sugestões ou demais contatos.
+-- Obs: O esquema ER foi feito no Microsoft Excel, estou testando uma forma de criar um ER melhor pelo site: https://app.creately.com/,
+farei as devidas melhorias para melhor compreenção do esquema.
 
 
 == Melquisedeque Oliveira =======================================================
